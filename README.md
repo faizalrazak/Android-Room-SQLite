@@ -3,10 +3,10 @@
 1. Step By Step
 2. Create “Entity”
 3. Create “Dao”
-Create database
-Create “Repository”
-Create “Model”
-Create recyclerview
-Create adapter
-Create view (xml)
-Create function in activity
+4. Create database
+5. Create “Repository”
+6. Create “Model”
+7. Create recyclerview
+8. Create adapter
+9. Create view (xml)
+10. Create function in activity
